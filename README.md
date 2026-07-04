@@ -10,4 +10,4 @@ fahrenheitToCelsius(fahrenheit) should convert Fahrenheit to Celsius and return 
 
 formatTemperature(value, unit) should return display text such as "77 F" or "20 C".
 
-link: https://github.com/jahidkhansec/js-temperature-converter.git
+link: [https://github.com/jahidkhansec/js-temperature-converter.git](https://roadmap.sh/projects/js-temperature-converter)
